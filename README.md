@@ -1,4 +1,4 @@
-# spotify
+# Music Player App using Flutter
 
 A new Flutter project.
 
